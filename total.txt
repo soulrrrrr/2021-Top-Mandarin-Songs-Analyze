@@ -308,8 +308,45 @@
  
  
 
-失重前幸褔
-no data
+失重前幸福
+[前奏] |Dm7 Em7 |Fm6 |Dm7 Em7 |Fm6 |
+ 
+|Cmaj7 |Dm7 G |Cmaj7 Em7 |Dm7 G |
+ 記得被你拋得有多高 信任你的環抱 在我華麗翻轉後炫耀 yeah
+|Cmaj7 Am7 |Dm7 G |Cmaj7 Am7 |Dm7 Fm6 |
+ 1.不料我們偏差了分毫 你沒把我接牢 跌落在計畫外了糟糕 ooh
+▲2.自由落體撞擊的力道 我們沒計算好 眼看著目標上下顛倒 ooh
+ 
+ |Fmaj7 E7 |Am7 － Gm7 Gm7/C |
+ 誰的幻想 完美的飛翔 就像練習相愛的時光
+ |Fmaj7 E7 |Dm7 Fm6 |
+ 我重重墜下 才知道多傻 我們都會故障
+ 
+ |C E7 |Am Am7/G |
+★時間 差一點 剛好 慢一點 不妙 美麗的失誤
+ |Fmaj7 － Em7 Am7 |Dm7 Fm6 |
+ 傷了你 傷了我 才學會彼此呵護 ooh
+ |C E7 |Am Am7/G F#m7-5 － |
+ 愛情 缺一步 恰巧 多一步 到老 好比 這 領悟 
+ |Dm7 G |Csus4 C |
+ 讓我們把握失重前幸福
+ 
+(1)
+[間奏] |Dm7 Em7 |Fm C |Dm7 Em7 |Fm －－ G | (回▲)
+ 
+(2)
+ |E7/B E7 |Am F#m7-5 |
+ 你宣告 不管疤痕 我永遠是最美的 
+ |Dm7 Em7 |Fm G |
+ 我們找回了 重心與平衡 (回★)
+ 
+(3)
+[尾奏] |Dm7 Em7 |Cmaj7 |
+ 
+ 
+ 
+ 
+
 
 如果能幸福
 [前奏] |C |G/B |Am |Am7/G |F |C/E |Dm7 |G |
@@ -494,7 +531,7 @@ no data
  
  
 
-緩緩
+緩緩 // wrong song
  
 |Am |F |
  你的笑容在我前方兩點鐘 我用睫毛剪接你每個舉動
@@ -1041,42 +1078,7 @@ no data
  
 
 Sweet Baby
-[前奏] |C |C |Am |Am |F |F |C |C | 
- 
- |C |C |Am |Am |F |F |C |C |
-我想帶走你的風采 讓他人無法去愛 你的所有全都屬於我 像星星和天空 
- |C |C |Am |Am |
-每個夜晚我們都不寂寞 因為有彼此多了些感動 
- |F |F |C |C |
-放下懦弱 放下藉口 別害怕握緊我的手 
- 
-|C |F |Em |F | 
-What I'm Going To Say Is I Will Be There For You 
-|C |G |Dm7 |F G | 
-What I'm Going To Do Is Love You Til The End Oh 
- 
- |C |C |Am |Am |
-每個夜晚我們都不寂寞 因為有彼此多了些感動 
- |F |F |C |C |
-沒有退縮 沒有如果 讓我帶你遠走 
- 
-[間奏] |C |C |Am |Am |F |F |C |C | 
- 
- |C |C |Am |Am |
-我想帶走你的風采 讓他人無法去愛 
- |F |F |C |C | 
-你的所有全都屬於我 像星星被天空擁有 
-|C |F |Em |F | 
-What I'm Going To Say Is I Will Be There For You 
-|C |G |Dm7 |F G | 
-What I'm Going To Do Is Love You Til The End Oh My Sweet Little Baby 
-|C |F |Em |F |
-What I'm Going To Say Is I Will Be There For You
-|C |G |Dm7 |F G |F |
-What I'm Going To Do Is Love You Til The End Oh My Sweet Little Baby 
- |F |C |
-My Sweet Little Baby My Sweet Little Baby (End)
- 
+no data 
 
 平行世界
 no data
@@ -1138,41 +1140,7 @@ no data
  
 
 過
-[前奏] ||G |G |C |C || x 2
- 
- |G |Gmaj7 |G6 |C |
- 1.想當初 你愛著我 那有多溫柔
-▲2.這些年 時間的手 無心地作弄
- |Cm |G/B |Am D |G | 
- 1.現在你 隨風而走 不曾 回來過
- 2.牽著你 不停的走 不曾 回來過
- |G |Gmaj7 |G6 |Am |
- 1.多年前 我愛著你 不是誰的錯
- 2.過去的 就讓他過 我並不脆弱
- |Dsus4 |G |Cm D |G |G |
- 1.是命運 帶你來過 卻又將你帶走
- 2.只記得 當時的我 深刻地愛過
- 
- |Am D7 |G |Am D7 |Em |
-★1.再愛的 再疼的 終究會離開 再恨的 再傷的 終究會遺忘
- 2.我難過 我懦弱 學不會灑脫 越想念 越失落 悲傷裡走過
- |Am D7 |G Em |A7 |Am7 |D7sus4 |D7 |
- 1.不捨得 捨不得 沒有什麼非誰不可 就讓自己慢慢成長 慢慢放下
- 2.很久很 久以後 終於找到心的出口 現在的我勇敢放手 讓你自由
- 
-(1)
-[間奏1] ||G |Gmaj7 |C |C || x 2 (回▲)
- 
-(2)
-[間奏2] |G |G |A/G |C D | (回★)
- 
-(3)
-|G |Gmaj7 |G6 |Am |
- 想當初 你愛著我 那有多溫柔 
-|Cm |G/B G |Am D7 | 
- 現在你隨風而走 不曾回來過
- 
-[尾奏] |G |G |
+13326
 
 青空未來
 [前奏] |Cadd9 C |Cmaj7 C |A7sus4 Am7 |A7sus2 Am7 |
@@ -1404,41 +1372,7 @@ Till My Ride Comes
  
 
 繞
-[前奏] |C G/B |Am7 Am7/G |F |G |
- 
- |C G/B |Am7 |C G/B |Am | 
- 1.時針在鬧 催促到天荒地老 
-▲2.遺失心跳 沿著感覺去找 
- |C G/B |Am7 Am7/G |F |G |
- 1.為何要賽跑 為何要讀秒 我不知道
- 2.那麼多喧囂 那麼多紛擾 都不需要
- 
- |C G/B |Am7 Am7/G |F |G |
-★裙襬搖搖風景美妙 直走不如繞道 繞~ 繞~
- |C G/B |Am7 Am7/G |F |G |
- 想要不要決定不了 勉強不如繞道 繞~ 繞~
- |C G/B |Am7 Am7/G |F |G |
- 陽光正好溫度正好 思念把我圍繞 繞~ 繞~
- 
-(1)
-[間奏1] |C G/B |Am7 － Am7 G/B | (回▲)
- 
-(2)
-[間奏2] |C G/B |Am7 Am7/G |F |G |
- 
-|C G/B |Am7 Am7/G |F |G |等4拍|
-天涯 海角 Oh 一繞 再繞 
- 
-[間奏3] |C G/B |Am7 Am7/G |F G |
- 
-|C G/B |Am7 Am7/G |F |G |
-裙襬搖搖 風景美妙 放頭髮隨風飄 繞~ 繞~
-|C G/B |Am7 Am7/G |F |G |
-想要不要 決定不了 放煩惱隨風飄 繞~ 繞~
-|C G/B |Am7 Am7/G |F |G |
-陽光正好 溫度正好 想你把我圍繞 繞~ 繞~
- 
-[尾奏] ||C G/B |Am7 Am7/G |F |G || x 4 |C |
+no data
 
 HAVE A NICE DAY
 [前奏] ||Cmaj7 |Cmaj7 |Dm7 |Dm7 || x 2
@@ -1491,40 +1425,7 @@ HAVE A NICE DAY
  
 
 三個字
-[前奏] ||E |E |Am |Am || x 4
- 
- |E |E |Am |Am |
-▲最近我有點不喜歡聽到 看到好朋友這三個字
- |E |E |Am |Am |
- 好朋友 只不過 是種還沒太熟的代替詞
- |E |E |Am |Am |
- 她不是我的男朋友 他也不是我的女朋友
- |E |E |Am |Am |
- 好朋友 什麼朋友 還是因為太過熟要裝不熟 
- |F |F |C |C |Bm7-5 |Bm7-5 |E |G |
- hey 我們是有多好 hi 我的好朋友 還不是hello完就要說 goodbye 
- 
- |C |C |Gm7 |C7 |F |F |Fm |Fm |
- 你不認識他嗎 他朋友是我朋友 管你是誰的朋友 吼 
- |C |C |Gm7 |C7 |F |F |Fm |Fm |
- 什麼電話號碼 留給你也不會打 好朋友是你決定的嗎
-(1)
-[間奏1] |E |E |Am |Am |X2 (回▲)
- 阿~滴滴滴滴滴滴滴滴滴滴滴 
- 
-(2)
-[間奏2] |A |A |F |F |X2
- 
- |A |A |F |F |A |A |F |F |F |F |
-你不是跟他很好嗎 干你什麼事啦 
- |C |C |Gm7 |C7 |F |F |Fm |Fm |
-你不認識他嗎 他朋友是我朋友 管你是誰的朋友 哈 
- |C |C |Gm7 |C7 |F |F |Fm |Fm |
-什麼電話號碼 留給你也不會打 好朋友是說說而已嗎
- 
-[尾奏] |E |E |Am |Am |X2 
- 滴滴滴滴滴滴滴滴滴滴滴 
- 
+no data 
  
 
 懂得雨天
@@ -1664,34 +1565,7 @@ no data
  
 
 白色
-[前奏] |F |Dm7 |Bbmaj7 |Bbm6 |
- 
-|F |Dm7 |Bbmaj7 |Bbm6 |
-▲白色的風車 安靜的轉著 真實的感覺 夢境般遙遠 
-|F |Dm7 |Bbmaj7 |Bbm6 |
- 甜甜的海水 複雜的眼淚 看妳傻笑著 
- |Gm7 |F/A |Bb |Bbm6 | 
- 握住我的手 夢希望沒有盡頭 我們走到這就好 因為我不想太快走完這幸福 
-|Gm7 |F/A |G/B |A7sus4 A7 |
- 很可惜沒有祝福 當愛妳並不孤獨 不會再讓妳哭 
- 
- |D － － A/Db |Bm7 |Gmaj7 |A7sus4 A7 |
- 我揹妳走到最後 能不能 不要回頭 妳緊緊的抱住我 說妳不需要承諾 
- |F#m7 |Bm7 |E7 |A7 |
- 妳說我若一個人會比較自由 我不懂妳說什麼 反正不會鬆手 
- |D － － A/Db |Bm7 |Gmaj7 |A7sus4 A7 |
- 我揹妳走到最後 能不能 別想太多 會不會手牽著手 晚一點才到盡頭 
- |F#m7 |Bm7 |Em7 |A7 |
- 妳說不該再相見只為了瞬間 謝謝妳讓我聽見 因為我在等待永遠 
- 
-(1)
-[間奏] |D |Bm7 |Gmaj7 |Gm7 C | (回▲)
- 
-(2)
-|Bm E7 |Em7 |A7 |
- 謝謝妳讓我聽見 因為我在等待永遠
- 
-[尾奏] |D －－ A/Db |Bm7 |Gmaj7 |Gm6 |D |
+no data
 
 藍色天空
 [前奏] |G |D/F# |Em |C －－ D |
@@ -1736,40 +1610,7 @@ no data
  
 
 勇氣
-[前奏] |C Fmaj7 |C Fmaj7 |G G/F Em Am |
- |Dm G (各1拍) |F/C C |F/C C |
- 
- |C Em7 |F G C － |
-▲終於作了這個決定 別人怎麼說我不理 只要你也一樣的肯定
- |F － Em7 Am |F － Em7 Am |
- 我願意天涯海角都隨你去 我知道一切不容易
- |F G/F |Dm7 G | 
- 我的心一直溫習說服自己 最怕你忽然說要放棄
- 
- |C Fmaj7 |G C |
-★愛真的需要勇氣  來面對流言蜚語
- |Am Em |F G |
- 只要你一個眼神肯定 我的愛就有意義
- |C Fmaj7 |G C |
- 我們都需要勇氣 去相信會在一起
- |Am Em |F G |
- 人潮擁擠我能感覺你 放在我手心裡 你的真心
- 
-(1)
-[間奏1] |C F |G G/F |Em Am |
- |Dm G (各1拍) |F/C C | (回▲)
- 
-(2)
-[間奏2] |C | 
- 
- |F G |C G/B  Am  C/G |
- 如果我的堅強任性 會不小心傷害了你
-|F G/F |Dm － F G |
- 你能不能溫柔提醒 我雖然心太急 更害怕錯過你 (回★)
- 
-(3)
-[尾奏] |C |F |G F |C |
- 
+no data 
  
 
 規則就是用來打破的
@@ -3016,4 +2857,3 @@ no data
  
  
  
-
